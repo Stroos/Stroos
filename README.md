@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Stroos
+- 👀 I’m interested in Design and programming 
+- 🌱 I’m currently learning Programing (js) 
